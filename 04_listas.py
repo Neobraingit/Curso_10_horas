@@ -15,6 +15,8 @@ print (my_other_list.append('Caballo')) # Añadimos un elemento a la lista
 print (my_other_list)
 print (my_other_list.insert(1, 'Cochino')) # Nos pide un índice e insertaremos ahí el nuevo elemento
 print (my_other_list)
+print (my_other_list.clear()) # Borra toda la lista
+
 
 
 
