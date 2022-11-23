@@ -20,3 +20,10 @@ print (3 <= 4) # Menor o igual qué
 print (3 >= 4) # Mayor o igual qué
 print (3 == 4) # Comparador de igualdad
 print (3 != 4) # Diferente qué
+
+# Operadores lógicos
+print (1 and 2) # Signinfica y
+print (1 or 2) # Siginifica o
+print (not(3 > 4)) # Negación
+
+
